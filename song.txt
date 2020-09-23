@@ -9,3 +9,5 @@ and then begin  frozen
 >>>>>>> f69ef93b96a2e37789ca8a9d0450ec9ad4e09299
 d
 
+text2
+text 3
