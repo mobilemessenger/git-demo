@@ -1,13 +1,8 @@
-<<<<<<< HEAD
-s
 and then begin a sun shine
-=======
+
 sing the song  tra la la
 and then begin a rain
 and then begin  frozen
-
->>>>>>> f69ef93b96a2e37789ca8a9d0450ec9ad4e09299
-d
 
 text2
 text 3
@@ -23,3 +18,5 @@ new text some
 feature branch
 mumumuu
 lll
+
+for tag only
